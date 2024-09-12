@@ -6,3 +6,6 @@ The project uses a Transfer Learning approach with the VGG16 architecture, lever
 
 Images are pre-processed and resized to match the input size expected by VGG16.
 The project involves training on a custom dataset and testing the model's accuracy in distinguishing between car brands.
+
+# Dataset link
+https://www.kaggle.com/datasets/kshitij192/cars-image-dataset
